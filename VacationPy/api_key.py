@@ -1,1 +1,0 @@
-APIkey1= 'AIzaSyD_o3qBHfeM_c3DKP7MBYEKWlSKjcjKyP0'
